@@ -6,9 +6,7 @@
   "homepage": "https://github.com/searleser97/cpbooster",
   "repository": "github:searleser97/cpbooster",
   "keywords": [
-    "competitive",
-    "tool",
-    "helper"
+    "competitive"
   ],
   "main": "src/index.js",
   "bin": {
